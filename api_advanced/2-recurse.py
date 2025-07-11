@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Module for recursively querying Reddit API for hot article titles in a subreddit.
+A  function that queries the Reddit API and returns the number of subscribers.
 """
 
 import requests
