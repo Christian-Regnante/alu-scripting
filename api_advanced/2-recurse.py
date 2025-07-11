@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Recursively retrieves all hot article titles for a given subreddit using the Reddit API.
+  function that queries the Reddit API and returns the number of subscribers.
 """
 
 import requests
