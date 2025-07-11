@@ -10,7 +10,7 @@
 - [Query String](https://en.wikipedia.org/wiki/Query_string)
 
 ## AUTHOR
-Gilbert
+Regnante Christian
 
 
 ## TASKS
