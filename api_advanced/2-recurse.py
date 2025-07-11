@@ -1,4 +1,11 @@
+#!/user/bin/python3
+
+"""
+Module for recursively querying Reddit API for hot article titles in a subreddit.
+"""
+
 import requests
+
 
 def recurse(subreddit, hot_list=None, after=None):
     if hot_list is None:
