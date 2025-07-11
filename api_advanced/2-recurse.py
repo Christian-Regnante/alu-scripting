@@ -1,5 +1,4 @@
-#!/user/bin/python3
-
+#!/usr/bin/python3
 """
 Module for recursively querying Reddit API for hot article titles in a subreddit.
 """
